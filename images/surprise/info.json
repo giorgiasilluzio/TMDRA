@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 167,
+    "height" : 112
+  }, {
+    "width" : 334,
+    "height" : 223
+  }, {
+    "width" : 667,
+    "height" : 445
+  }, {
+    "width" : 1333,
+    "height" : 889
+  }, {
+    "width" : 2666,
+    "height" : 1777
+  }, {
+    "width" : 5331,
+    "height" : 3554
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5331,
+  "@id" : "https://giorgiasilluzio.github.io/TMDRA/images/surprise",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3554
+}
