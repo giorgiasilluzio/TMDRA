@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 39,
+    "height" : 51
+  }, {
+    "width" : 77,
+    "height" : 102
+  }, {
+    "width" : 153,
+    "height" : 203
+  }, {
+    "width" : 305,
+    "height" : 406
+  }, {
+    "width" : 609,
+    "height" : 812
+  }, {
+    "width" : 1218,
+    "height" : 1624
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1218,
+  "@id" : "https://giorgiasilluzio.github.io/TMDRA/images/CB39_fol_001r",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1624
+}
